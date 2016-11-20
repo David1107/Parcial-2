@@ -1,0 +1,15 @@
+version: '2'
+services:
+  db:
+    image: postgresql_base
+    ports:
+      - "5432:5432"
+  web:
+    image: docker_node
+    ports:
+      - "49160:8080"
+    links:
+      - db
+
+
+

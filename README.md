@@ -17,3 +17,11 @@ $ docker build -t docker_node .
 Ve hacia Parcial-2/ y ejecuta el siguiente comando
 
 $ docker-compose up
+
+#### Contrato REST
+
+Descripción de las URIs
+
+| | POST | GET | PUT | DELETE |
+|---	|--- 	|---	|---	|---	|
+| /users | Inserta un usuario | Retorna los datos de todos los usuarios | No aplica | Elimina todos los usuarios |

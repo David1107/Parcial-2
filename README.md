@@ -24,4 +24,4 @@ Descripción de las URIs
 
 | | POST | GET | PUT | DELETE |
 |---	|--- 	|---	|---	|---	|
-| /users | Inserta un usuario | Retorna los datos de todos los usuarios | No aplica | Elimina todos los usuarios |
+| /users | No aplica | Retorna los datos de la base de datos Postgres | No aplica | No aplica |

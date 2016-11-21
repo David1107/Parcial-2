@@ -4,7 +4,7 @@ Clone the repository
 
 Clona el repositorio y ve a la carpeta Parcial-2
 
-git clone https://github.com/ICESI/distributed-systems.git
+git clone https://github.com/David1107/Parcial-2.git
 Crea las imagenes
 
 Ve hacia Parcial-2/postgres/ y crea la imagen para postgresql
